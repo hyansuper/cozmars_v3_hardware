@@ -3,7 +3,7 @@
 
 LISENCE: TAPR Open Hardware License
 
-formware: https://github.com/hyansuper/cozmars.git
+firmware: https://github.com/hyansuper/cozmars.git
 ![](imgs/cad_img.jpg)
 ![](imgs/assembly.jpg)
 ![](imgs/3dprint2.jpg)
