@@ -1,5 +1,7 @@
 - 3D model online preview: https://a360.co/4c95q6T
 - PCB schematic and layout: https://oshwhub.com/hyan/project_uewvqdli
+    - the antenna is tuned for optimal, but it works somehow
+    - PCB is 4-layered, 1.2 mm thick
 
 LICENSE: TAPR Open Hardware License
 
